@@ -35,8 +35,8 @@ Follow these steps to clone, configure, and boot the entire system locally on yo
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/hoasloymas/student-management-system.git
+cd student-management-system
 ```
 
 ### 2. Install Dependencies
