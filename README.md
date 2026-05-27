@@ -6,6 +6,17 @@ academic records, and student lifecycles. This application focuses heavily on
 
 ---
 
+## Visit Site
+
+[sms.maheshc.me](https://sms.maheshc.me)
+
+[sms-f4a2319fae33.herokuapp.com](https://sms-f4a2319fae33.herokuapp.com)
+
+Admin Email & Password
+- admin@gmail.com
+- admin123
+---
+
 ## 🚀 Key Architectural Features
 
 * **Zero-Error Data Entry:** The interface is strictly designed around business workflows rather than raw database entry.
